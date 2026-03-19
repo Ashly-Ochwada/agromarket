@@ -1,4 +1,3 @@
-import { Link } from 'react-router';
 import { Package, ShoppingCart, DollarSign, TrendingUp, Plus, Edit, Trash2 } from 'lucide-react';
 import { Card } from '../components/ui/card';
 import { Button } from '../components/ui/button';
